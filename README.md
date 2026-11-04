@@ -88,6 +88,7 @@ For another language, type the script in that language and choose a voice for it
 Trend templates turn one or two photos into a ready-made scene: a dance, a movie moment, a trip to space. Each guide below shows real renders and what every template needs and costs.
 
 - [AI couple video ideas from two photos](https://talkpix-ai.github.io/talkpix-ai-talking-photo-resources/ai-couple-video-ideas/): a slow dance in the rain, a rain kiss, a tap duet, a dance lift, Christmas cue cards and a pottery wheel.
+- [AI pet video prompts](https://talkpix-ai.github.io/talkpix-ai-talking-photo-resources/ai-pet-video-prompts/): the full Pet Barista prompt, why it holds together for 30 seconds, and five more pet ideas (fast food, giant pet, office, cave, Moon).
 - [All AI video trend templates](https://www.talkpix.ai/trends), each with its own example and price.
 
 ## Developer API quick start
